@@ -1,0 +1,1 @@
+Este é um exemplo de texto com mais de vinte caracteres.Esta é uma nova linha de texto que será acrescentada ao ficheiro.
